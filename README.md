@@ -20,6 +20,12 @@ The SQL Query Runner is a web-based application designed to execute SQL queries 
 ### Error Handling 
 – If an incorrect query is entered, an error message is displayed to guide the user.
 
+## Technologies Used
+- React.js
+- Mantine UI
+- CSS
+- HTML
+
 ## Dataset 
 The dummy data is fetched from the provided source: 
 
