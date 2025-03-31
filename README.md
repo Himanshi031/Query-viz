@@ -96,6 +96,15 @@ The application is hosted on Netlify, a platform known for fast deployment, CDN 
   ![image](https://github.com/user-attachments/assets/0a035c00-b282-42a3-936d-7f0d6111f2cd)
 
 
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/108dbbe0-fae7-4a2c-b475-7b58a01807b1)
+
+## ER Diagram
+
+![image](https://github.com/user-attachments/assets/d6478a5e-b66d-4c76-87e8-0fb823bbab67)
+
+
 ## Installation & Deployment
 
 #### 1. Install React Application 
